@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1,ÐŸÐµÑ€Ð²Ñ‹Ð¹
+http://46.32.64.42/s/live/1/9.9.9.9/1/0.m3u8
+#EXTINF:-1,Ð Ð¾ÑÑÐ¸Ñ 1
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Ð Ð¾ÑÑÐ¸Ñ 24
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,ÐÐ¢Ð’
+http://46.32.64.42/s/live/4/9.9.9.9/1/0.m3u8
+#EXTINF:-1,Ð Ð•Ð
+http://46.32.64.42/s/live/11/9.9.9.9/1/0.m3u8
+#EXTINF:-1,Ð¡Ð¢Ð¡
+http://46.32.64.42/s/live/13/9.9.9.9/1/0.m3u8
+#EXTINF:-1,Ð”Ð¾Ð¼Ð°ÑˆÐ½Ð¸Ð¹
+http://46.32.64.42/s/live/14/9.9.9.9/1/0.m3u8
+#EXTINF:-1,Ð¢Ð’-3
+http://46.32.64.42/s/live/15/9.9.9.9/1/0.m3u8
+#EXTINF:-1,ÐŸÑÑ‚Ð½Ð¸Ñ†Ð°
+http://46.32.64.42/s/live/16/9.9.9.9/1/0.m3u8
+#EXTINF:-1,Ð¢ÐÐ¢
+http://46.32.64.42/s/live/19/9.9.9.9/1/0.m3u8
+#EXTINF:-1,Ð§Ðµ!
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/297.m3u8
+#EXTINF:-1,Ð—Ð²ÐµÐ·Ð´Ð°
+http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
+#EXTINF:-1,5 ÐºÐ°Ð½Ð°Ð»
+http://46.32.64.42/s/live/10/9.9.9.9/1/0.m3u8
+#EXTINF:-1,Ð¢Ð’Ð¦
+http://46.32.64.42/s/live/11/9.9.9.9/1/0.m3u8
+#EXTINF:-1,OTP
+http://46.32.64.42/s/live/9/9.9.9.9/1/0.m3u8
+#EXTINF:-1,ÐŸÐµÑ€ÐµÑ†
+http://streams.tv.mts.by/peretz_int/1/index.m3u8
+#EXTINF:-1,78
+http://46.32.64.42/s/live/15/9.9.9.9/1/0.m3u8
+#EXTINF:-1,MTV
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:-1,ÐšÐ°Ð±Ð±Ð°Ð»Ð° Ð¢Ð’
+https://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+#EXTINF:-1,Ð¨Ð°Ð½ÑÐ¾Ð½ Ð¢Ð’
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1,ÐœÐ¸Ñ€ 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,ÐœÐ¸Ñ€ Ð¢Ð’
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1,Ð ÑƒÑÑÐºÐ¸Ð¹ ÑÐºÑÑ‚Ñ€Ð¸Ð¼
+http://ott-cdn.ucom.am/s47/04.m3u8
+#EXTINF:-1,ÐœÐ°Ñ‚Ñ‡!
+http://188.35.9.11:2019
+#EXTINF:-1,Eurosport 1
+http://77.245.98.22:8000/play/307/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://212.164.223.102:8888/udp/233.7.70.14:5000
+#EXTINF:-1,ÐœÐÐ¢Ð§! Ð¤ÑƒÑ‚Ð±Ð¾Ð» 1
+http://188.35.9.11:2025
+#EXTINF:-1,ÐœÐÐ¢Ð§! Ð¤ÑƒÑ‚Ð±Ð¾Ð» 2
+http://188.35.9.11:2026
+#EXTINF:-1,ÐœÐÐ¢Ð§! Ð¤ÑƒÑ‚Ð±Ð¾Ð» 3
+http://188.35.9.11:2027
+#EXTINF:-1,Ð¤ÑƒÑ‚Ð±Ð¾Ð» 1 (Ð£ÐºÑ€Ð°Ð¸Ð½Ð°)
+http://91.238.194.131/football1hd/mono.m3u8
+#EXTINF:-1,Ð¤ÑƒÑ‚Ð±Ð¾Ð» 2 (Ð£ÐºÑ€Ð°Ð¸Ð½Ð°)
+http://91.238.194.131/football2hd/mono.m3u8
+#EXTINF:-1,ÐŸÐµÑ€Ð²Ñ‹Ð¹ int
+http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:-1,Ð Ð¾ÑÑÐ¸Ñ Ð Ð¢Ð 
+http://ott-cdn.ucom.am/s15/04.m3u8
+#EXTINF:-1,Ð Ð¾ÑÑÐ¸Ñ Ðš
+http://ott-cdn.ucom.am/s16/04.m3u8
+#EXTINF:-1,ÐÐ¢Ð’ Ð¼Ð¸Ñ€
+http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:-1,Food Network
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1,Ð¢ÐÐ¢
+http://ott-cdn.ucom.am/s19/04.m3u8
+#EXTINF:-1,Ð¢ÐÐ¢ 4
+http://ott-cdn.ucom.am/s100/04.m3u8
+#EXTINF:-1,?
+http://ott-cdn.ucom.am/s20/04.m3u8
+#EXTINF:-1,Ð Ð¾ÑÑÐ¸Ñ 24
+http://ott-cdn.ucom.am/s21/04.m3u8
+#EXTINF:-1,BBC
+http://ott-cdn.ucom.am/s24/04.m3u8
+#EXTINF:-1,France 24
+http://ott-cdn.ucom.am/s25/04.m3u8
+#EXTINF:-1,CNN
+http://ott-cdn.ucom.am/s27/04.m3u8
+#EXTINF:-1,ÐœÐ£Ð— Ð¢Ð’
+http://ott-cdn.ucom.am/s28/04.m3u8
+#EXTINF:-1,RAI 1
+http://ott-cdn.ucom.am/s29/04.m3u8
+#EXTINF:-1,FTV
+http://ott-cdn.ucom.am/s30/04.m3u8
+#EXTINF:-1,Ð—Ð°Ð³Ð¾Ñ€Ð¾Ð´Ð½Ñ‹Ð¹
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:-1,Amedia 1
+http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:-1,Amedia 2
+http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:-1,Bridge TV
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:-1,Mezzo
+http://ott-cdn.ucom.am/s35/04.m3u8
+#EXTINF:-1,Ð Ð‘Ðš
+http://ott-cdn.ucom.am/s36/04.m3u8
+#EXTINF:-1,Ð¡Ð°Ñ€Ð°Ñ„Ð°Ð½
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:-1,ÐœÐ˜Ð 
+http://ott-cdn.ucom.am/s39/04.m3u8
+#EXTINF:-1,Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ
+http://ott-cdn.ucom.am/s40/04.m3u8
+#EXTINF:-1,Ð¤ÑƒÑ‚Ð±Ð¾Ð»
+http://ott-cdn.ucom.am/s41/04.m3u8
+#EXTINF:-1,Ð¨Ð°Ð½ÑÐ¾Ð½
+http://ott-cdn.ucom.am/s43/04.m3u8
+#EXTINF:-1,ÐŸÐ¾Ð±ÐµÐ´Ð°
+http://ott-cdn.ucom.am/s47/04.m3u8
+#EXTINF:-1,MCM
+http://ott-cdn.ucom.am/s49/04.m3u8
+#EXTINF:-1,ÐŸÑÑ‚Ð½Ð¸Ñ†Ð°
+http://ott-cdn.ucom.am/s50/04.m3u8
+#EXTINF:-1,Fine living
+http://ott-cdn.ucom.am/s51/04.m3u8
+#EXTINF:-1,Ð¡Ð¢Ð¡
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1,Ð¢Ð’Ð¦
+http://ott-cdn.ucom.am/s54/04.m3u8
+#EXTINF:-1,ÐžÑ…Ð¾Ñ‚Ð½Ð¸Ðº Ð¸ Ð Ñ‹Ð±Ð¾Ð»Ð¾Ð²
+http://ott-cdn.ucom.am/s55/04.m3u8
+#EXTINF:-1,Ð¢ÐµÐ»ÐµÐºÐ°Ñ„Ðµ
+http://ott-cdn.ucom.am/s56/04.m3u8
+#EXTINF:-1,Ð Ñ‹Ð¶Ð¸Ð¹
+http://ott-cdn.ucom.am/s57/04.m3u8
+#EXTINF:-1,ÐœÑƒÐ»ÑŒÑ‚
+http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:-1,TiJi
+http://ott-cdn.ucom.am/s59/04.m3u8
+#EXTINF:-1,ÐÐ°ÑÑ‚Ð¾ÑÑ‰ÐµÐµ Ð’Ñ€ÐµÐ¼Ñ
+http://ott-cdn.ucom.am/s61/04.m3u8
+#EXTINF:-1,ÐžÑ…Ð¾Ñ‚Ð½Ð¸Ðº Ð¸ Ð Ñ‹Ð±Ð¾Ð»Ð¾Ð²
+http://ott-cdn.ucom.am/s62/04.m3u8
+#EXTINF:-1,Amedia HBO
+http://ott-cdn.ucom.am/s64/04.m3u8
+#EXTINF:-1,NBC
+http://ott-cdn.ucom.am/s65/04.m3u8
+#EXTINF:-1,24 Ð¢ÐµÑ…Ð½Ð¾
+http://ott-cdn.ucom.am/s68/04.m3u8
+#EXTINF:-1,TV5 Monde
+http://ott-cdn.ucom.am/s75/04.m3u8
+#EXTINF:-1,Ð”Ð¾ÐºÑ‚Ð¾Ñ€
+http://ott-cdn.ucom.am/s76/04.m3u8
+#EXTINF:-1,ÐœÐÐœÐ
+http://ott-cdn.ucom.am/s77/04.m3u8
+#EXTINF:-1,Bridge Ð ÑƒÑÑÐºÐ¸Ð¹ Ð¥Ð¸Ñ‚
+http://ott-cdn.ucom.am/s78/04.m3u8
+#EXTINF:-1,Fast Fun Box
+http://ott-cdn.ucom.am/s79/04.m3u8
+#EXTINF:-1,RTG TV
+http://ott-cdn.ucom.am/s80/04.m3u8
+#EXTINF:-1,Setanta
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1,Ð Ð•Ð
+http://ott-cdn.ucom.am/s85/04.m3u8
+#EXTINF:-1,Fight Box
+http://ott-cdn.ucom.am/s86/04.m3u8
+#EXTINF:-1,ÐÐ¡Ð¢
+http://ott-cdn.ucom.am/s87/04.m3u8
+#EXTINF:-1,Ð”Ð¾Ð¼Ð°ÑˆÐ½Ð¸Ð¹
+http://ott-cdn.ucom.am/s88/04.m3u8
+#EXTINF:-1,Euronews
+http://ott-cdn.ucom.am/s89/04.m3u8
+#EXTINF:-1,Ð—Ð´Ð¾Ñ€Ð¾Ð²ÑŒÐµ
+http://ott-cdn.ucom.am/s90/04.m3u8
+#EXTINF:-1,TV100 action
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:-1,Ð—Ð¾Ð¾ Ð¢Ð’
+http://ott-cdn.ucom.am/s92/04.m3u8
+#EXTINF:-1,RT Ð”
+http://ott-cdn.ucom.am/s93/04.m3u8
+#EXTINF:-1,Ð”Ð¾Ñ€Ð°Ð¼Ð°
+http://ott-cdn.ucom.am/s95/04.m3u8
+#EXTINF:-1,ÐÐ°ÑƒÐºÐ°
+http://ott-cdn.ucom.am/s98/04.m3u8
+#EXTINF:-1,ÐŸÑ€Ð¸ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ
+http://ott-cdn.ucom.am/s99/04.m3u8
